@@ -11,19 +11,19 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['+79011033947', '👑Создатель бота👑', true],
-  ['+79011033947', '💫 Второй номер создателя 💫', true],
+  ['+77072763560', '👑Создатель бота👑', true],
+  ['+77072763560', '💫 Второй номер создателя 💫', true],
 ];
 
-global.suittag = ['+79011033947'];
-global.prems = ['+79011033947'];
+global.suittag = ['+77072763560'];
+global.prems = ['+77072763560'];
 
 global.packname = 'Sticker';
-global.author = 'Хулиган';
-global.wm = 'Хулиган';
-global.titulowm = 'Хулиган';
-global.titulowm2 = `Хулиган`
-global.igfg = 'Хулиган';
+global.author = 'Ванилька';
+global.wm = 'Ванилька';
+global.titulowm = 'Ванилька';
+global.titulowm2 = `Ванилька`
+global.igfg = 'Ванилька';
 global.wait = '*[ ⏳ ] Загрузка...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -48,15 +48,15 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nХулиган`;
-global.gt = 'Хулиган';
-global.mysticbot = 'Хулиган';
+global.wm2 = `${dia} ${fecha}\nВанилька`;
+global.gt = 'Ванилька';
+global.mysticbot = 'Ванилька';
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.waitt = '*[ ⏳ ] Cargando...*';
 global.waittt = '*[ ⏳ ] Cargando...*';
 global.waitttt = '*[ ⏳ ] Cargando...*';
-global.nomorown = '+79011033947';
+global.nomorown = '+77072763560';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
