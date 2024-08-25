@@ -3,12 +3,12 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url' 
 
 global.owner = [
-  ['+770792763560', 'FG98', true],
-  ['+770792763560']
+  ['+77072763560', 'FG98', true],
+  ['+77072763560']
 ] //Numeros de owner 
 
 global.mods = [''] 
-global.prems = ['+770792763560', '+770792763560']
+global.prems = ['+77072763560', '+77072763560']
 global.APIs = { // API Prefix
   // name: 'https://website' 
   nrtm: 'https://fg-nrtm.ddns.net',
